@@ -1,0 +1,2 @@
+# Text_Classification_on_Restaurant_Reviews
+The aim of this proect is to develop a sentiment classiﬁer that can assign a large set of product reviews to the ﬁve levels of polarity of opinion as accurately as possible, given a small amount of labeled reviews and a large amount of unlabelled reviews. It is a multi-class classiﬁcation task, where each product review is labeled with one of the ﬁve sentiment labels, which are strong negative, weak negative, neutral, weak positive, and strong positive.
